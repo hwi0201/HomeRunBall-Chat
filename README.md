@@ -1186,5 +1186,5 @@ http://localhost:5001
 
 ### 🌐 배포 (Render.com)
 
-**배포 URL:** [https://three-character-chat.onrender.com]
+**배포 URL:** [https://homerunball-chat.onrender.com]
 ---
