@@ -12,4 +12,4 @@ langchain-core
 langchain-openai
 
 # Utilities
-python-dotenv==1.0.1venv 터민
+python-dotenv==1.0.1
